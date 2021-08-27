@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esp32)(type Legacy)(uri /home/ivo/burggraben/informatik/labor/wetterstation/kicad/tutorial/first/esp32.lib)(options "")(descr ""))
+  (lib (name wbplotter-rescue)(type Legacy)(uri ${KIPRJMOD}/wbplotter-rescue.lib)(options "")(descr ""))
+)

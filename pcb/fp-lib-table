@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esp32)(type KiCad)(uri /home/ivo/burggraben/informatik/labor/wetterstation/kicad/tutorial/first/esp32.pretty)(options "")(descr ""))
+)
